@@ -1,0 +1,375 @@
+﻿
+body {
+    
+    margin: 0;
+}
+
+html {
+    background: url(ashleyhomepageoffset.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-attachment: relative;   
+} 
+
+.left {
+
+    margin-left: 5%;
+    /* padding: 10px; */
+    
+} 
+
+.right {
+    display: inline;
+    position: relative;
+    margin-left:62%;
+    /* padding: 10px; */
+    
+} 
+/* form {
+    background-color:#2C6336;
+    opacity: 0.7;
+    padding: 3% 3%;
+} */
+
+span.aboutme{
+    
+    font-family: 'Aguafina Script';
+    font-size: 50px;
+    color: white;
+    display: block;
+}
+
+p.form{
+    color: white;
+    margin-left: 12%;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+p.other {
+    
+    font-family: 'Arial';
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    line-height: 1.5;
+    white-space: normal;
+    background-color:#2C6336;
+    opacity: 0.7;
+    padding: 3% 3%;
+    margin-right: 50%;
+    margin-left: 6%;
+   
+}
+
+p.videotitle{
+    color:white;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 12%;
+    font-family: 'Amatic SC';
+    font-size: 25px;
+}
+
+p.instr{
+    color: white;
+    text-align: center;
+    font-family: 'Amatic SC';
+    font-size: 30px;
+}
+
+p.name{
+    font-family: 'Aguafina Script'; 
+    font-size: 120px;
+    color: white;
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 12%;
+    margin-bottom:0;
+    background-color: none;
+    
+}
+
+/* p.countdownbottom{
+    display: block;
+    font-family: 'Arial'; 
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    background-color: none;
+    margin-top: 0;
+    margin-left:5%;
+    margin-right:55%;
+    padding:0;
+    border-color:yellow;
+    border-width: 5px;
+    border-style: solid;
+    border-top-style:none;
+    
+}
+
+p.countdowntop{
+ display: block;
+    font-family: 'Arial'; 
+    font-size: 30px;
+    color: white;
+    text-align: left;
+    background-color: none;
+    margin-bottom: 0;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right:55%;
+    padding:0;
+    border-color: yellow;
+    border-width:5px;
+    border-style: solid;
+    border-bottom-style:none;
+}
+*/
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2C6336;
+    position: sticky;
+    top: 0;
+    left:0;
+    right:0;
+    width: 100%;
+    z-index: 10;
+    font-family: 'Amatic SC';
+    
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 14px 70px;
+    text-decoration: none;
+}
+
+
+li a:hover:not(.active) {
+    background-color: none;
+}
+
+li a:hover {
+    background-color: #A4A051;
+}
+
+li a.active {
+    background-color: #A4A051;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #2C6336;
+   color: white;
+   text-align: center;
+   font-size: 20px;
+   font-family: 'Amatic SC';
+   padding-top: 0.5%;
+   padding-bottom: 0.5%;
+   margin-bottom: 0;
+}
+a.insta{
+    display: inline block;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+   /* text-decoration: none; */
+}
+
+a.tw{
+display: inline block;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+   /* text-decoration: none; */
+}
+
+a.insta:hover {
+    background-color: #EE3075;
+} 
+
+a.tw:hover {
+    background-color: #05BBD5;
+}
+
+a.order{
+    background-color: #651E7A;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+    width: 9%;
+    color: white;
+    font-size: 20px;
+    margin-left: 21%;
+}
+
+a.order:hover{
+    background-color: black;
+}
+
+.column {
+    float: left;
+    width: 70%;
+    margin-right: 0px;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+
+.row:after {
+   content: "";
+   display: table;
+   clear: both;
+}
+
+img.page{
+
+  float: right;
+  position: sticky;
+  margin-right: 12%;
+}
+
+#sw{
+float: right;
+margin-right: 5%;
+}
+
+input[type=text] {
+  width: 70%;
+  box-sizing: border-box;
+  border: 3px solid black;
+  margin-left: 15%;
+  border-radius: 7px
+ 
+}
+
+input[type=text].moredetails {
+  width: 70%;
+  height: 90px;
+  box-sizing: border-box;
+  border: 3px solid black;
+  margin-left: 15%;
+  border-radius: 7px;
+  
+}
+
+
+input[type=submit] {
+  background-color: #651E7A;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin-left: 45%;
+    cursor: pointer;
+   
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.formbckgrnd{
+   background-color:#2C6336;
+   opacity: 0.85;
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 1%;
+   margin-bottom: 10%;
+   padding: 0.5% 0% 0.5% 0%;
+}
+
+textarea{
+   width: 70%;
+  height: 90px;
+  box-sizing: border-box;
+  border: 3px solid black;
+  margin-left: 15%;
+  border-radius: 7px;
+}
+
+button.video{
+  border: 1px solid #2C6336;
+  background-color: #2C6336;
+  display: block;
+  margin-left: 10%;
+  margin-top: 0;
+  margin-bottom: 10%;
+}
+
+iframe.video{
+  height: 450px;
+  width: 700px;
+  background-color: #2C6336;
+  float: left;
+  margin-left: 12%;
+}
+
+.scrollbox{
+   margin-top: 2%;
+   height:450px;
+   width:350px;
+   border:1px solid black;
+   background-color: black;
+   overflow:auto;
+}
+
+img.vbutton{
+   height: 155px;
+   width: 255px;
+   cursor: pointer;
+}
+
+div.updates{
+
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 10%; 
+  width: 40%;
+  height: 40%;
+  background-color: white; 
+}
+
+img.updatepic{
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  height: 400px;
+  display: block;
+}
+
+p.updatewords{
+  margin-top: 10%;
+  text-align: left;
+  width:500px;
+  height:300px;
+  display: block;
+  margin-left: 10%;
+}
+
+p.updatedate{
+text-align: left;
+margin-top: 1%;
+margin-left: 2%; 
+position: absolute;
+display block;
+
+}
+  
