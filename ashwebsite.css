@@ -372,4 +372,36 @@ position: absolute;
 display block;
 
 }
-  
+
+@media screen and (max-height: 625px) {
+  p.other {
+       width: 70%;
+       margin-left: 15%;
+       margin-right: 15%;
+}
+
+  ul {
+      position: relative;
+      width: 100%;
+      margin-top: 0;
+}
+  p.name{
+      font-size: 15px;
+}
+
+   a.order{
+      font-size: 10px;
+}
+   img.page{
+       display: block;
+}
+
+    iframe.video{
+        display: block;
+        width: 70%;
+}
+
+    div.updates{
+       width: 60%;
+}
+}
