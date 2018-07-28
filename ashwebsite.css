@@ -283,9 +283,10 @@ a.order:hover{
 }
 
 .column {
-    float: left;
+   float: left;
     width: 22%;
     margin-right: 2%;
+    display: inline;
 }
 
 .row:after {
@@ -382,9 +383,12 @@ button.video{
    width:100%;
    border:1px solid white;
    background-color: black;
-   overflow:auto;
+   white-space: nowrap;
+   overflow: auto;
+   display: inline-flex;
    box-sizing: border-box;
-} 
+}
+
   iframe.video{
   width: 60%;
   height: 400px;
