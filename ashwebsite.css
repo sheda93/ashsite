@@ -527,6 +527,10 @@ p.aboutme{
 .scrollbox{
  height: 100px;
 }
+    
+html{
+background-position: 0 30px;
+}
 }
 
 @media only screen and (max-width: 270px) {
