@@ -62,7 +62,7 @@ p.other {
     padding: 3% 3%;
     margin-left: 6%;
     box-sizing: border-box;
-    widthL 90%;
+    width: 60%;
    
 }
 
@@ -237,13 +237,13 @@ a.tw:hover {
 
 a.order{
     background-color: #651E7A;
-    padding: 20px;
+    padding: 2%;
     text-decoration: none;
     display: block;
     width: 9%;
     color: white;
     font-size: 20px;
-    margin-left: 21%;
+    margin-left: 30%;
 }
 
 a.order:hover{
@@ -265,15 +265,15 @@ a.order:hover{
 }
 
 img.page{
-
   float: right;
-  position: sticky;
-  margin-right: 12%;
+  margin-right: 5%;
+  margin-left: 2%;
   box-sizing: border-box;
   width:25%;
   height:30%;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
 }
+
 
 #sw{
 float: right;
