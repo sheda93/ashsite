@@ -348,7 +348,7 @@ button.video{
 
 iframe.video{
   width: 50%;
-  height: 375px;
+  height: 340px;
   background-color: #2C6336;
   float: left;
   margin-left: 10%;
@@ -357,8 +357,8 @@ iframe.video{
 }
 
 .scrollbox{
-   margin-top: 2%;
-   height:375px;
+   margin-top: 10%;
+   height:340px;
    width:30%;
    border:1px solid black;
    background-color: black;
