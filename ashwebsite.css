@@ -49,6 +49,24 @@ p.form{
     box-sizing: border-box;
 }
 
+p.book {
+    
+    font-family: 'Arial';
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    line-height: 1.5;
+    white-space: normal;
+    background-color:#2C6336;
+    opacity: 0.7;
+    padding: 3% 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-sizing: border-box;
+    width: 80%;
+    
+}
+
 p.other {
     
     font-family: 'Arial';
@@ -268,9 +286,9 @@ a.order:hover{
 }
 
 img.page{
-  float: right;
-  margin-right: 5%;
-  margin-left: 2%;
+  display: block;
+  margin-right: 50%;
+  margin-left: 40%;
   box-sizing: border-box;
   width:25%;
   height:30%;
