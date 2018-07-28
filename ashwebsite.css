@@ -448,4 +448,48 @@ box-sizing: border-box;
 
 }
 
-  
+  @media only screen and (max-width: 625px) {
+   iframe.video{
+   width: 100%;
+   margin-left: 0;
+}
+
+p.name{
+   font-size: 70px;
+}
+
+p.aboutme{
+ font-size: 18px;
+}
+}
+
+@media only screen and (max-width: 1175px) {
+
+p.subinstr{
+ display: block;
+}
+}
+
+@media only screen and (max-width: 347px) {
+
+p.menu{
+ font-size: 12px;
+}
+}
+
+@media only screen and (max-width: 450px) {
+
+p.aboutme{
+ font-size: 15px;
+ width: 95%;
+ margin-left: 2.5%;
+ margin-right: 2.5%;
+}
+}
+
+@media only screen and (max-width: 270px) {
+
+span.aboutme{
+ font-size: 45px;
+}
+}
