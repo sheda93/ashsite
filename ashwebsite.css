@@ -284,10 +284,8 @@ a.order:hover{
 
 .column {
     float: left;
-    width: 70%;
-    margin-right: 0px;
-    margin-left: 2%;
-    margin-top: 4%;
+    width: 22%;
+    margin-right: 2%;
 }
 
 .row:after {
