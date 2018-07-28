@@ -301,8 +301,12 @@ a.order:hover{
 .column {
    float: left;
     width: 22%;
-    margin-right: 2%;
+    margin-right: 10%;
     display: inline;
+}
+
+.row{
+    display: inline-flex;
 }
 
 .row:after {
