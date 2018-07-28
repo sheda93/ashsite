@@ -549,4 +549,8 @@ span.aboutme{
 p.videotitle{
  font-size: 15px;
 }
+
+.column{
+    margin-right: 15%;
+    }
 }
