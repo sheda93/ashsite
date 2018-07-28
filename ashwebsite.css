@@ -256,14 +256,14 @@ a.tw:hover {
 
 a.order{
     background-color: #651E7A;
-    padding: 2%;
+    padding: 1%;
     text-decoration: none;
     display: block;
     width: 15%;
     color: white;
     font-size: 20px;
-    margin-left: 30%;
-    margin-bottom: 10%;
+    margin-left: 50%;
+    margin-bottom: 2%;
     text-align: center;
 }
 
@@ -293,6 +293,7 @@ img.page{
   width:25%;
   height:30%;
   margin-bottom: 2%;
+  margin-top: 2%;
 }
 
 
