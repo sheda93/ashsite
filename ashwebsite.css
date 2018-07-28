@@ -373,16 +373,16 @@ iframe.video{
   height: 340px;
   background-color: #2C6336;
   float: left;
-  margin-left: 2%;
+  margin-left: 19%;
   margin-bottom:5%;
   box-sizing: border-box;
 }
 
 .scrollbox{
    margin-top: 10%;
-   margin-right: 2%;
+   margin-right: 10%;
    height:340px;
-   width:30%;
+   width:20%;
    border:1px solid black;
    background-color: black;
    overflow:auto;
