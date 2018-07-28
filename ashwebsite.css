@@ -104,6 +104,15 @@ p.instr{
     margin-bottom: 1%;
     box-sizing: border-box;
 }
+    
+p.subinstr{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Amatic SC';
+    font-size: 20px;
+    box-sizing: border-box;
+}
 
 p.name{
     font-family: 'Aguafina Script'; 
