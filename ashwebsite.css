@@ -347,17 +347,16 @@ button.video{
 }
 
 iframe.video{
-  width: 50%;
+  width: 70%;
   height: 450px;
   background-color: #2C6336;
   float: left;
-  margin-left: 10%;
   margin-bottom:30%;
   box-sizing: border-box;
 }
 
 .scrollbox{
-    margin-top: 2%;
+   margin-top: 2%;
    height:450px;
    width:30%;
    border:1px solid black;
