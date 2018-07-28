@@ -103,12 +103,13 @@ p.name{
     background-color: #2C6336;
     margin-top: 0%;
     left:0;
-    width: 30%;
+    width: 50%;
     font-family: 'Amatic SC';
     box-sizing: border-box;
     display: none;
     position:absolute;
     z-index: 1; 
+    text-align: center;
 }
 
 .dropdown{
