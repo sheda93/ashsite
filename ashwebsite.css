@@ -240,10 +240,11 @@ a.order{
     padding: 2%;
     text-decoration: none;
     display: block;
-    width: 9%;
+    width: 15%;
     color: white;
     font-size: 20px;
     margin-left: 30%;
+    margin-bottom: 10%;
 }
 
 a.order:hover{
