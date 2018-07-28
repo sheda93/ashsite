@@ -422,6 +422,7 @@ img.vbutton{
    margin-bottom:0;
    cursor: pointer;
    display: inline block;
+   border: 1px solid white;
 }
     
 div.updates{
@@ -477,6 +478,11 @@ p.name{
 p.aboutme{
  font-size: 18px;
 }
+
+      a.order{
+ font-size: 13px;
+ width: 30%;
+}
 }
 
 @media only screen and (max-width: 1175px) {
@@ -491,6 +497,10 @@ p.subinstr{
 p.menu{
  font-size: 12px;
 }
+
+.scrollbox{
+ height: 90px;
+}
 }
 
 @media only screen and (max-width: 450px) {
@@ -501,11 +511,26 @@ p.aboutme{
  margin-left: 2.5%;
  margin-right: 2.5%;
 }
+
+.scrollbox{
+ height: 100px;
+}
 }
 
 @media only screen and (max-width: 270px) {
 
 span.aboutme{
  font-size: 45px;
+}
+
+.scrollbox{
+ height: 75px;
+}
+}
+
+@media only screen and (max-width: 925px) {
+
+p.videotitle{
+ font-size: 15px;
 }
 }
