@@ -33,6 +33,16 @@ span.aboutme{
     display: block;
 }
 
+p.creator{
+   color: white;
+   text-align: right;
+   font-size: 13px;
+   font-family: 'Times New Roman';
+   font-weight: bold;
+   padding: 0;
+   margin: 0 2% 0 0;
+}
+
 p.menu{
    color: white;
    font-family: 'Arial Bold';
