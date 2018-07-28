@@ -9,8 +9,8 @@ html {
     background: url(ashleyhomepageoffset.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: auto;
-    background-attachment: relative;   
+    background-position: 0% 0%;
+    background-attachment: fixed;   
 } 
 
 .left {
