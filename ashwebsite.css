@@ -521,6 +521,13 @@ p.subinstr{
  display: block;
 }
 }
+     
+@media only screen and (max-width: 777px) {
+
+a.order{
+font-size: 13px;;
+}
+}
 
 @media only screen and (max-width: 347px) {
 
