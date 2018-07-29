@@ -432,7 +432,7 @@ button.video{
   background-color: black;
   box-sizing: border-box;
   margin-left: 20%;
-  margin-bottom: 5%;
+  margin-bottom: 15%;
 }
 
 img.vbutton{
@@ -487,7 +487,7 @@ box-sizing: border-box;
 }
 
  @media only screen and (max-width: 625px) {
-   iframe.video{
+ iframe.video{
    width: 100%;
    margin-left: 0;
 }
@@ -513,13 +513,10 @@ a.order{
  width: 30%;
  margin-left: 38%;
 }
-
-.scrollbox{
- height: 135px;
-}
      
 p.creator{
   font-size: 10px;
+}
 }
 
 @media only screen and (max-width: 1175px) {
@@ -573,8 +570,4 @@ p.videotitle{
 .column{
     margin-right: 15%;
     }
-    
- .scrollbox{
- height: 135px;
-}
 }
