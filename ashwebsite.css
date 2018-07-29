@@ -316,7 +316,7 @@ a.order:hover{
     display: inline;
 }
 
-.row{
+/* .row{
     display: inline-flex;
 }
 
@@ -325,6 +325,7 @@ a.order:hover{
    display: table;
    clear: both;
 }
+*/
 
 img.page{
   display: block;
