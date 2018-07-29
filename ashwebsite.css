@@ -502,7 +502,7 @@ p.aboutme{
 }
 
 p.other{
- font-size: 15px;
+ font-size: 13px;
  width: 95%;
  margin-left: 2.5%;
  margin-right: 2.5%;
@@ -517,10 +517,6 @@ a.order{
 p.creator{
   font-size: 10px;
 }
- 
-p.other{
-  font-size: 15px;
-     }
 }
 
 @media only screen and (max-width: 1175px) {
