@@ -515,7 +515,7 @@ a.order{
 }
 
 .scrollbox{
- height: 150px;
+ height: 135px;
 }
      
 p.creator{
@@ -541,10 +541,6 @@ font-size: 13px;
 p.menu{
  font-size: 12px;
 }
-
-.scrollbox{
- height: 110px;
-}
 }
 
 @media only screen and (max-width: 450px) {
@@ -554,10 +550,6 @@ p.aboutme{
  width: 95%;
  margin-left: 2.5%;
  margin-right: 2.5%;
-}
-
-.scrollbox{
- height: 110px;
 }
     
 html{
@@ -570,10 +562,6 @@ background-position: 0 30px;
 span.aboutme{
  font-size: 45px;
 }
-
-.scrollbox{
- height: 110px;
-}
 }
 
 @media only screen and (max-width: 925px) {
@@ -585,4 +573,8 @@ p.videotitle{
 .column{
     margin-right: 15%;
     }
+    
+ .scrollbox{
+ height: 135px;
+}
 }
