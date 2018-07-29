@@ -319,17 +319,6 @@ a.order:hover{
     display: inline block; 
 }
 
-/* .row{
-    display: inline-flex;
-}
-
-.row:after {
-   content: "";
-   display: table;
-   clear: both;
-}
-*/
-
 img.page{
   display: block;
   margin-right: 50%;
@@ -503,9 +492,7 @@ p.aboutme{
 
 p.other{
  font-size: 13px;
- width: 95%;
- margin-left: 2.5%;
- margin-right: 2.5%;
+ width: 100%;
 }
 
 a.order{
