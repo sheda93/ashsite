@@ -459,7 +459,6 @@ div.updatecaption{
   margin-bottom: 10%;
   display: block;
   padding: 0;
-  white-space: pre-line;
 }
 
 
@@ -483,6 +482,7 @@ img.updatepic{
   width: 55%;
   height: 400px;
   display: block;
+  border: 4p solid white;
   box-sizing: border-box;
   padding:0;
 }
