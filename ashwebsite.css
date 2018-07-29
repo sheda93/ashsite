@@ -518,8 +518,8 @@ a.order{
  height: 150px;
 }
      
-     p.creator{
-         font-size: 10px;
+p.creator{
+  font-size: 10px;
 }
 
 @media only screen and (max-width: 1175px) {
@@ -532,7 +532,7 @@ p.subinstr{
 @media only screen and (max-width: 777px) {
 
 a.order{
-font-size: 13px;;
+font-size: 13px;
 }
 }
 
@@ -572,7 +572,7 @@ span.aboutme{
 }
 
 .scrollbox{
- height: 75px;
+ height: 110px;
 }
 }
 
