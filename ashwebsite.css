@@ -511,6 +511,9 @@ a.order{
 .scrollbox{
  height: 150px;
 }
+     
+     p.creator{
+         font-size: 10px;
 }
 
 @media only screen and (max-width: 1175px) {
