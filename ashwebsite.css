@@ -446,21 +446,33 @@ div.updates{
   box-sizing: border-box;
 }
 
+div.updatepic{
+  width: 80%;
+  height: 30%;
+  background-color: blue;
+  box-sizing: border-box;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 0;
+  display: block;
+  padding:0;
+}
+
+
 img.updatepic{
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
+  margin-left: 22.5%;
+  margin-right: 22.5%;
+  margin-bottom: 0;
+  width: 55%;
   height: 400px;
   display: block;
   box-sizing: border-box;
+  padding:0;
 }
 
 p.updatewords{
-  margin-top: 10%;
+  margin-top: 2%;
   text-align: left;
-  width:500px;
-  height:300px;
-  display: block;
   margin-left: 10%;
   box-sizing: border-box;
 }
@@ -469,10 +481,7 @@ p.updatedate{
 text-align: left;
 margin-top: 1%;
 margin-left: 2%; 
-position: absolute;
-display block;
 box-sizing: border-box;
-
 }
 
  @media only screen and (max-width: 625px) {
