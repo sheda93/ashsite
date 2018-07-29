@@ -447,6 +447,22 @@ div.updates{
   box-sizing: border-box;
 }
 
+div.updatecaption{
+  width: 80%;
+  height: 30%;
+  color: black;
+  background-color: white;
+  box-sizing: border-box;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0;
+  margin-bottom: 10%;
+  display: block;
+  padding: 0;
+  white-space: pre-line;
+}
+
+
 div.updatepic{
   width: 80%;
   height: 30%;
