@@ -35,12 +35,12 @@ span.aboutme{
 
 p.creator{
    color: white;
-   text-align: right;
+   text-align: center;
+   width: 100%;
+   background-color: #A4A051;
    font-size: 13px;
    font-family: 'Times New Roman';
    padding: 0;
-   margin: 1px 2% 0 0;
-   margin-left: 60%;
 }
 
 p.menu{
