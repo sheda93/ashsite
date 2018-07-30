@@ -33,16 +33,6 @@ span.aboutme{
     display: block;
 }
 
-p.creator{
-   color: white;
-   text-align: center;
-   width: 100%;
-   background-color: #A4A051;
-   font-size: 13px;
-   font-family: 'Times New Roman';
-   padding: 0;
-}
-
 p.menu{
    color: white;
    font-family: 'Arial Bold';
@@ -255,8 +245,6 @@ a.menuoption{
 
 .footer {
    position: fixed;
-   left: 0;
-   bottom: 0;
    width: 100%;
    background-color: #2C6336;
    color: white;
@@ -264,10 +252,29 @@ a.menuoption{
    font-size: 20px;
    font-family: 'Amatic SC';
    padding-top: 0.5%;
-   padding-bottom: 0.5%;
-   margin-bottom: 0;
+   padding-bottom: 1%;
    box-sizing: border-box;
+   display: block;
+   bottom: 4%;
+   height: 5%;
 }
+
+.creator{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #26372A;/* #103B1A; */
+   color: white;
+   text-align: center;
+   font-size: 13px;
+   font-family: 'Times New Roman';
+   box-sizing: border-box;
+   display: block;
+   height: 3.5%;
+   padding: 0;
+}
+
 a.insta{
     display: inline block;
     color: white;
