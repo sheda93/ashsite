@@ -264,9 +264,10 @@ a.menuoption{
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: #26372A;/* #103B1A; */
+   background-color: #26372A;
    color: white;
-   text-align: center;
+   text-align: right;
+   margin-right: 1%;
    font-size: 13px;
    font-family: 'Times New Roman';
    box-sizing: border-box;
