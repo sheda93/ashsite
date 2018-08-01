@@ -417,8 +417,9 @@ button.video{
 
 .scrollbox{
    margin-top: 2%;
+   margin-left: 20%;
    height: 190px;
-   width:100%;
+   width:60%;
    border:1px solid white;
    background-color: black;
    white-space: nowrap;
@@ -429,7 +430,7 @@ button.video{
 
   iframe.video{
   width: 60%;
-  height: 400px;
+  height: 500px;
   background-color: black;
   box-sizing: border-box;
   margin-left: 20%;
