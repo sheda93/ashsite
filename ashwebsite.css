@@ -517,11 +517,11 @@ box-sizing: border-box;
  iframe.video{
    width: 100%;
    margin-left: 0;
+   height: 400px;
 }
 
 .scrollbox{
-  width: 60%;
-  height: 500px;
+  width: 100%;
   margin-left: 0;
      }
      
