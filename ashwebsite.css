@@ -519,6 +519,12 @@ box-sizing: border-box;
    margin-left: 0;
 }
 
+.scrollbox{
+  width: 60%;
+  height: 500px;
+  margin-left: 0;
+     }
+     
 p.name{
    font-size: 70px;
    margin-top: 30%;
